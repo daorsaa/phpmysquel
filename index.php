@@ -11,5 +11,6 @@ $surname = "krasniqi";
 
 $fullname = $name . "" . $surname;
 echo $fullname;
+
 ?>
 
